@@ -1,6 +1,6 @@
 # [level 0] 배열의 평균값 - 120817 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120817) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 26일 18:50:44
+2024년 08월 26일 22:18:26
 
 ### 문제 설명
 
